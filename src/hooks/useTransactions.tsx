@@ -16,7 +16,7 @@ type SummaryType = {
   incomes: number;
   outcomes: number;
   total: number;
-}
+};
 
 type TransactionsContextType = {
   transactions: Transaction[];
